@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Google Map</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Google Maps</h1>
+    <div id="msg"></div>
+    <div id="map">
+      
+    </div>
+    <div id="legend">
+      <h4>Map Legends</h4>
+    <div style="display: flex;">
+      <div class="para">Type A</div>
+      <div><img class="marker" src="A.png"></div>
+      <div><input id="checkbox" class="cbox" type="checkbox" value="0"></div>
+    </div>
+    <div style="display: flex;">
+      <div class="para">Type B</div>
+      <div><img class="marker" src="B.png"></div>
+      <div><input id="checkbox1" class="cbox" type="checkbox" value="1"></div>
+    </div>
+    <div style="display: flex;">
+      <div class="para">Type C</div>
+      <div><img class="marker" src="C.png"></div>
+      <div><input id="checkbox2" class="cbox" type="checkbox" value="2"></div>
+    </div>
+    </div>
+
+    <script src="script.js"></script>
+    <!-- <script type="text/javascript" src="cords.json"></script> -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA3a2JkrcouTu7BCBXNQjEPEAW3_hL_iPA&map_ids=MAP_ID&callback=initMap"></script>
+  </body>
+</html>

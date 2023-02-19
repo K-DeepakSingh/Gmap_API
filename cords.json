@@ -1,0 +1,81 @@
+[
+     {
+      "ID" : 1,
+      "LATITUDE": "22.11838889",
+      "LONGITUDE": "78.04666667",
+      "Marker_Type": "A",
+      "Marker_ID": "A1"
+      
+     },
+     {
+        "ID" : 2,
+      "LATITUDE": "22.11841667",
+      "LONGITUDE": "78.04642222",
+      "Marker_Type": "A",
+      "Marker_ID": "A2"
+     },
+     {
+        "ID" : 3,
+      "LATITUDE": "22.11844444",
+      "LONGITUDE": "78.04673056",
+      "Marker_Type": "B",
+      "Marker_ID": "B1"
+     },
+     {
+        "ID" : 4,
+      "LATITUDE": "22.11847222",
+      "LONGITUDE": "78.04648333",
+      "Marker_Type": "B",
+      "Marker_ID": "B2"
+     },
+     {
+        "ID" : 5,
+      "LATITUDE": "22.11877778",
+      "LONGITUDE": "78.04625000",
+      "Marker_Type": "C",
+      "Marker_ID": "C1"
+     },
+     {
+        "ID" : 6,
+      "LATITUDE": "22.11852778",
+      "LONGITUDE": "78.04626667",
+      "Marker_Type": "A",
+      "Marker_ID": "A3"
+     },
+     {
+        "ID" : 7,
+      "LATITUDE": "22.11855556",
+      "LONGITUDE": "78.04629722",
+      "Marker_Type": "C",
+      "Marker_ID": "C2"
+     },
+     {
+        "ID" : 8,
+      "LATITUDE": "22.11858333",
+      "LONGITUDE": "78.04549444",
+      "Marker_Type": "C",
+      "Marker_ID": "C3"
+     },
+     {
+        "ID" : 9,
+      "LATITUDE": "22.11833333",
+      "LONGITUDE": "78.04552500",
+      "Marker_Type": "C",
+      "Marker_ID": "C4"
+     },
+     {
+        "ID" : 10,
+      "LATITUDE": "2.11837500",
+      "LONGITUDE": "78.04544444",
+      "Marker_Type": "B",
+      "Marker_ID": "B3"
+     },
+     {
+        "ID" : 11,
+      "LATITUDE": "22.11840278",
+      "LONGITUDE": "78.04502222",
+      "Marker_Type": "B",
+      "Marker_ID": "B4"
+     }
+    ]
+    

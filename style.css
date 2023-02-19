@@ -1,0 +1,98 @@
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+h1 {
+  font-family: "Press Start 2P", cursive;
+  text-align: center;
+  font-size: 2rem;
+  padding: 0 3rem;
+}
+
+#map {
+  height: 75vh;
+  position: relative;
+}
+#msg {
+  position: absolute;
+  bottom: 100px;
+  left: 40%;
+  z-index: 5;
+  background-color: transparent;
+  color: #000;
+  padding: 5px;
+  border: 0px;
+  text-align: center;
+  font-family: "Roboto", "sans-serif";
+  font-size: 18px;
+  line-height: 30px;
+  padding-left: 10px;
+}
+
+.gm-style-iw-d {
+  color: #000000;
+}
+.marker {
+  height: 20px;
+  width: 20px;
+  margin-left: 10px;
+  margin-top: -5px;
+  
+}
+.cbox {
+  height: 15px;
+  width: 25px;
+  margin-left: 5px;
+  /* margin-top: 8px; */
+  vertical-align: middle;
+  
+   /* margin-bottom: 15px;  */
+}
+#legend {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  margin: 10px;
+  border: 3px solid #000;
+  z-index: 5;
+  position: absolute;
+  bottom: 15%;
+  color: #000;
+}
+
+#legend h3 {
+  margin-top: 0;
+}
+
+#legend img {
+  vertical-align: middle;
+}
+.para {
+  color: #000000;
+  /* word-wrap: break-word;
+  font-weight: 600;
+  font-size: medium;
+  margin-top: 15px; */
+  vertical-align: middle;
+}
+.hed {
+  color: #000000;
+  font-size: large;
+  font-weight: 600;
+}
+/* #legend1{
+z-index: 5;
+} */
